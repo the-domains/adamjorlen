@@ -1,0 +1,28 @@
+name: adamjorlen
+favicon: null
+layout_spectrum: 0.860763753997162
+typography_spectrum: 0.888062743935734
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.7882084830198437
+  lightness: 0.17253689048811793
+  saturation: 0.881081334548071
+  rhythmicContrast: 0.8950026142410934
+purpose: []
